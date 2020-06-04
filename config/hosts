@@ -1,0 +1,19 @@
+127.0.0.1	localhost
+127.0.1.1	ubuntu
+
+# The following lines are desirable for IPv6 capable hosts
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+
+10.0.0.1 v01 v01.vll.ist
+10.0.0.2 v02 v02.vll.ist
+10.0.0.3 v03 v03.vll.ist
+#Tempory use v04 as public ip since no 10G cable connect
+10.204.100.114 v04 v04.vll.ist
+10.0.0.7 v07 vision01-desktop
+10.0.0.8 v08 vision02-desktop
+10.0.0.9 v09 vision03-desktop
+10.0.0.10 v10 vision04-desktop
+10.0.0.23 v23 ist01-MS-7C60
+10.0.0.24 v24 ist02-MS-7C60
